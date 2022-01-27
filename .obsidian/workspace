@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "f6b81d1df79c34cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb070550da1ff4f4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Відношення/Відношення порядку.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "efa356b3d7b45687",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee0374b46923bd57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "067e99a9ee362e8b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "abf47aca8ca169cd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9879e332fe457436",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb5475ae1023efe6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "147222982a91c4f8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Відношення/Відношення порядку.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "fb070550da1ff4f4",
+  "lastOpenFiles": [
+    "Відношення/Відношення порядку.md",
+    "Операції/Операція додавання.md",
+    "Множини/Множина.md",
+    "Множини/Числові множини.md",
+    "Математичні символи.md"
+  ]
+}
